@@ -1,0 +1,5 @@
+classes = 6  # Number of defect types
+train = Dataset/train.txt  # Path to the training image list
+valid = Dataset/valid.txt   # Path to the test image list
+names = obj.names       # Path to the file containing class names
+backup = darknet/backup/

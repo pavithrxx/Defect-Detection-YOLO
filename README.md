@@ -1,0 +1,2 @@
+YOLO-based Defect Detection Model for FSW Parts
+This repository contains a YOLO-based object detection model designed to identify surface defects in Friction Stir Welding (FSW) parts. The model is trained to detect six types of surface defects commonly found in FSW parts: void, keyhole, cross-section reduction defect, crack, galling, and flash.
